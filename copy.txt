@@ -1,0 +1,5 @@
+conda install PyPDF2
+y
+conda install natsort
+y
+
